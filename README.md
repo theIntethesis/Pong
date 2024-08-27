@@ -11,3 +11,8 @@
  - In Godot, import the above folder as a new project.
  - Press the "Play" symbol in the top-right corner of the display.
  - Godot will compile the program.
+
+# Deliverables
+ - README | You're looking at it!
+ - Code | The code is handled via a single script: `cs383asgn1/script1.gd`.
+ - Picture / Video | Needed ;-;
