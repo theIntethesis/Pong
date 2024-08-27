@@ -15,4 +15,4 @@
 # Deliverables
  - README | You're looking at it!
  - Code | The code is handled via a single script: `cs383asgn1/script1.gd`.
- - Picture / Video | Needed ;-;
+ - Picture / Video | In the repo as `CS383Asgn1.mp4`
